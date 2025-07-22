@@ -1,0 +1,7 @@
+# Ignore database and environment files
+instance/
+*.db
+__pycache__/
+*.pyc
+env/
+.env
